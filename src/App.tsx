@@ -1,11 +1,11 @@
-import Signin from './pages/Singin'
+import {SignIn} from './pages/SignIn'
 import './styles/global.scss'
 
 function App() {
 
   return (
     <div className="App">
-      <Signin />
+      <SignIn />
     </div>
   )
 }
